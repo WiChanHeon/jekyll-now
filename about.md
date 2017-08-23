@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[c5287@naver.com.com](mailto:c5287@naver.com.com)
+[c5287@naver.com](mailto:c5287@naver.com)
