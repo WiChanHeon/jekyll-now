@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+꿈나무웹개발자
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+![_config.yml]({{ site.baseurl }}/images/1100.jpg)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[c5287@naver.com.com](mailto:c5287@naver.com.com)
